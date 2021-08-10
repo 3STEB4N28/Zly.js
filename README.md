@@ -13,7 +13,7 @@ npm install zly.js@latest
 npm install github:3STEB4N28/Zly.js
 ```
 3) Open your IDE and create a new Project/file.\
-This is the oart where you question if you really should've went into Development and Programming.\
+This is the part where you question if you really should've went into Development and Programming.\
 Create a new JavaScript file, name it `index.js`, or `bot.js` or anything of the sorts,
 and paste this content below as if you're pasting a answer from Stack Overflow.
 ```javascript
