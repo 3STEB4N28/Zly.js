@@ -28,7 +28,7 @@ let bot = new Client({
 
 bot.build('Discord Bot Token');
 ```
-4) And, you're set! You may want to take a look at the [documentation](https://zly.3steb4n28.xyz)!
+4) Then run `node filename.js`, replace `filename.js` with the name of the file you just pasted the above code to, and after that if there is no errors, you're set! You may want to take a look at the [documentation](https://zly.3steb4n28.xyz)!
 
 #### Extras
 - [More Examples](https://github.com/3STEB4N28/Zly.js/tree/Examples)
